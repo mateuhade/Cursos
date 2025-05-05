@@ -1,0 +1,1 @@
+#caso nas configurações importadas algumas configurações não funcionem, verifique se todas elas estão instaladas no vscode
