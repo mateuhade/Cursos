@@ -27,8 +27,6 @@ para i de 1 ate casos faca
           R <- R + quantidade
      fimescolha
      
-
-     
 fimpara
 
 total <- (C + R + S)
