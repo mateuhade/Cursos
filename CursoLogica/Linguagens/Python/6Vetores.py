@@ -18,3 +18,20 @@ for i in range(0, N):
 
 print(f"\nA soma dos valores totaliza {soma:.2f}")
 
+# Matrizes
+# Da mesma maneira de veteores, o python também não tem matrizes exatamente
+linhas = int(input("Quantas linhas terá a matriz? "))
+colunas = int(input("Quantas colunas terá a matriz? "))
+
+matriz = [[0 for x in range(colunas)] for x in range(linhas)]  # Quando estiver criando matrizes dessa forma as COLUNAS
+# DEVEM aparecer ANTES das LINHAS
+for i in range(0, linhas):
+    for j in range(0, colunas):
+        matriz[i][j] = int(input(f"Elemento [{i}, {j}]: "))
+print()
+
+print("MATRIZ DIGITADA:")
+for i in range(0, linhas):
+    for j in range(0, colunas):
+        print(f"{matriz[i][j]} ", end="")
+    print()
