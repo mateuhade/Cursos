@@ -1,10 +1,13 @@
 # Diretório das IDE's
+CursoLogica/Linguagens/.metadata/
 .idea/
 
 # Arquivos descartáveis de lógica
 CursoLogica/Linguagens/Python/Atividades/__pycache__/
 CursoLogica/Linguagens/C/debugger/bin
 CursoLogica/Linguagens/C/debugger/obj
+CursoLogica/Linguagens/Java/bin
+CursoLogica/Linguagens/Java/.settings
 
 # Diretório de Python
 CursoPython/venv
@@ -13,3 +16,4 @@ CursoPython/venv
 *.exe
 *.o
 *.depend
+*.classpath
