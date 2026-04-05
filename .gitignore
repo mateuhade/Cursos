@@ -1,9 +1,10 @@
 # Diretório das IDE's
-CursoLogica/Linguagens/.metadata/
+CursoLogica/Linguagens/C#/.vs
+CursoLogica/Linguagens/.metadata
 .idea/
 
 # Arquivos descartáveis de lógica
-CursoLogica/Linguagens/Python/Atividades/__pycache__/
+CursoLogica/Linguagens/Python/Atividades/__pycache__
 CursoLogica/Linguagens/C/debugger/bin
 CursoLogica/Linguagens/C/debugger/obj
 CursoLogica/Linguagens/Java/bin
