@@ -1,6 +1,15 @@
 <Solution>
+  <Folder Name="/Atividades/">
+    <Project Path="Atividades/crescente/crescente.csproj" Id="b404c459-5048-44f4-8edb-f3901a72d208" />
+    <Project Path="Atividades/diagonal_negativos/diagonal_negativos.csproj" Id="5a56fb0b-3bac-475d-aeef-e0f6f880dd89" />
+    <Project Path="Atividades/idades/idades.csproj" Id="e11b5bbf-a65e-4e21-b97f-a4720f6a8ed7" />
+    <Project Path="Atividades/menor_de_tres/menor_de_tres.csproj" Id="ac425965-0212-45a3-aaae-03d1531b7d3d" />
+    <Project Path="Atividades/retangulo/retangulo.csproj" Id="b7bfd2b2-2829-4c85-aa12-536e85f5358a" />
+    <Project Path="Atividades/soma_impares/soma_impares.csproj" Id="142e174d-2add-4c80-88c5-a17a7a11ae97" />
+    <Project Path="Atividades/soma_vetor/soma_vetor.csproj" Id="8db24660-7f22-4c01-a4d1-acc28029f736" />
+  </Folder>
   <Folder Name="/Solution Items/" />
   <Project Path="1variaveisEDados/1variaveisEDados.csproj" Id="6e4dd136-48fe-43c8-95e2-9d1f4f730f8c" />
   <Project Path="2entradaEDebug/2entradaEDebug.csproj" Id="6c2cb4fe-c1ea-482a-8938-17aed3b0adaf" />
-  <Project Path="2vetoresEMatrizes/3vetoresEMatrizes.csproj" Id="5524792d-7a75-45d9-aa6f-1e2a5a6b0911" />
+  <Project Path="3vetoresEMatrizes/3vetoresEMatrizes.csproj" />
 </Solution>

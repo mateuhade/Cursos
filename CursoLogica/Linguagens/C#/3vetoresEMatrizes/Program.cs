@@ -31,7 +31,7 @@ namespace _3vetoresEMatrizes
             // --------MATRIZES---------
 
             Console.Write("\n\nQuantas linhas vai ter a matriz? ");// o ponto de exclamação está sendo utilizado aqui para evitar que o Visual Studio marque como possível
-            int linhas = int.Parse(Console.ReadLine()!); // erro já que caso não seja inserido nenhum valor o Parse vai gerar um erro.
+            int linhas = int.Parse(Console.ReadLine()!);           // erro já que caso não seja inserido nenhum valor o Parse vai gerar um erro.
             Console.Write("Quantas colunas vai ter a matriz? ");
             int colunas = int.Parse(Console.ReadLine()!);
 
