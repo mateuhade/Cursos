@@ -5,10 +5,10 @@ CursoLogica/Linguagens/.metadata
 
 # Arquivos descartáveis de lógica
 CursoLogica/Linguagens/Python/Atividades/__pycache__
-CursoLogica/Linguagens/C/debugger/bin
-CursoLogica/Linguagens/C/debugger/obj
-CursoLogica/Linguagens/Java/bin
 CursoLogica/Linguagens/Java/.settings
+**/bin/
+**/obj/
+
 
 # Diretório de Python
 CursoPython/venv
