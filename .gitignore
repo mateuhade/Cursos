@@ -10,10 +10,6 @@ CursoLogica/Linguagens/Java/.settings
 **/bin/
 **/obj/
 
-
-# Diretório de Python
-CursoPython/venv
-
 # Formatos de arquivos temporários/compilados
 *.exe
 *.o
